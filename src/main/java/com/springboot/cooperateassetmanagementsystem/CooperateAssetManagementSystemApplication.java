@@ -8,7 +8,7 @@ public class CooperateAssetManagementSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CooperateAssetManagementSystemApplication.class, args);
-		System.out.println("Jeedie Spring boot Developer");
+		System.out.println("Jeedie Spring Boot Developer");
 	}
 
 }
